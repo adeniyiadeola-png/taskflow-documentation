@@ -1,3 +1,4 @@
+![TaskFlow Documentation Banner](taskflow-banner.png)
 
 # TaskFlow
 
