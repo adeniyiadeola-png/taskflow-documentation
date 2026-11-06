@@ -12,16 +12,15 @@ A sample task management tool for organizing activities, tracking progress, and 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-  - [Creating a Task](#creating-a-task)
-  - [Completing a Task](#completing-a-task)
+- [Usage](##usage)
+  - [Creating a Task](###creating-a-task)
+  - [Completing a Task](###completing-a-task)
 - [Example Workflow](#example-workflow)
 - [Limitations](#limitations)
 - [Contributing](#contributing)
 - [License](#license)
 - [Documentation](#documentation)
 - [About This Documentation](#about-this-documentation)
-
 
 ## About the Project
 
