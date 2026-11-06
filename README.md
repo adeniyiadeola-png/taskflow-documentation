@@ -57,7 +57,7 @@ The TaskFlow prototype is designed around a simple task management workflow.
 
 1. Open the TaskFlow interface.
 2. Navigate to the Tasks dashboard.
-3. Select the New Task button.
+3. Select the Create New Task button.
 4. Enter the task name and description.
 5. Set a due date if required.
 6. Select the Save Task button.
