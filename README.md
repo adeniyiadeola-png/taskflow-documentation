@@ -116,8 +116,7 @@ This project is a documentation demonstration. No software license has been assi
 
 ## Documentation
 
-- [How to Create and Manage Your First Task in TaskFlow](INSERT_PUBLIC_HOW_TO_GUIDE_LINK_HERE)
-
+-[How to Create and Manage Your First Task in TaskFlow](https://github.com/adeniyiadeola-png/taskflow-documentation/blob/main/docs/how-to-guide.md)
 ## About This Documentation
 
 This README was created as part of a beginner technical writing portfolio project.
