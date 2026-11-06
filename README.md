@@ -24,7 +24,7 @@ A sample task management tool for organising activities, tracking progress, and 
 
 ## About the Project
 
-TaskFlow is a fictional task management application designed to help users organize their activities and monitor task completion.
+TaskFlow is a fictional task management application designed to help users organise their activities and monitor task completion.
 
 The project demonstrates how a task management tool can support personal productivity by allowing users to create tasks, add descriptions, set due dates, and track their progress.
 
