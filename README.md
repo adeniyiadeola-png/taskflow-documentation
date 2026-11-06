@@ -2,7 +2,7 @@
 
 # TaskFlow
 
-A sample task management tool for organizing activities, tracking progress, and managing daily tasks.
+A sample task management tool for organising activities, tracking progress, and managing daily tasks.
 
 ## Table of Contents
 
@@ -46,7 +46,7 @@ TaskFlow is designed to support the following features:
 - **Task descriptions:** Add details to explain what needs to be completed.
 - **Due dates:** Assign deadlines to tasks.
 - **Task tracking:** Monitor task completion status.
-- **Task organization:** View tasks from a central dashboard.
+- **Task organisation:** View tasks from a central dashboard.
 
 These features describe the intended functionality of the TaskFlow prototype.
 
