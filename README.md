@@ -4,6 +4,25 @@
 
 A sample task management tool for organizing activities, tracking progress, and managing daily tasks.
 
+## Table of Contents
+
+- [About the Project](#about-the-project)
+- [Project Status](#project-status)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+  - [Creating a Task](#creating-a-task)
+  - [Completing a Task](#completing-a-task)
+- [Example Workflow](#example-workflow)
+- [Limitations](#limitations)
+- [Contributing](#contributing)
+- [License](#license)
+- [Documentation](#documentation)
+- [About This Documentation](#about-this-documentation)
+
+
 ## About the Project
 
 TaskFlow is a fictional task management application designed to help users organize their activities and monitor task completion.
