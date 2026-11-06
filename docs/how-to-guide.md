@@ -11,11 +11,15 @@ This guide explains how to create a new task and mark it as complete.
 
 ## 2. Before You Begin
 
-Before following this guide, you should:
+Before following this guide, ensure you understand the basic purpose of TaskFlow as a task management application.
 
-- Have access to the TaskFlow application concept.
-- Understand the basic purpose of a task management application.
-- Have a task ready to add.
+You should also have the following information ready:
+
+- A task title.
+- A short description of the task.
+- A due date for the task.
+
+**Note:** TaskFlow is a fictional application created for this technical writing portfolio. The instructions demonstrate a proposed user workflow and cannot be performed in a live application.
 
 ## 3. Step-by-Step Instructions
 
