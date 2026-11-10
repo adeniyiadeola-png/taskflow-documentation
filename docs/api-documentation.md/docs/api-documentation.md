@@ -133,3 +133,7 @@ TaskFlow is a fictional project. The endpoints, request bodies, and responses in
 ## About This Documentation
 
 This API documentation was created as part of a technical writing portfolio project to demonstrate API documentation structure and clarity.
+
+## Accuracy and Edit Note
+
+I reviewed the documentation for clarity, consistency, and formatting. I checked that the endpoint descriptions, request examples, and response examples followed a logical structure. Since TaskFlow is fictional, the API endpoints could not be tested against a functional application.
